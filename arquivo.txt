@@ -1,3 +1,4 @@
 Teste de arquivo
-Primeira alteração!
-Segunda alteração
+Primeira 	alteração!
+Segunda 	alteração!
+Terceira 	alteração!
