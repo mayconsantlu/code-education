@@ -2,3 +2,5 @@ Teste de arquivo
 Primeira 	alteração!
 Segunda 	alteração!
 Terceira 	alteração!
+
+Quarta Alteração
