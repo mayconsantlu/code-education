@@ -4,3 +4,5 @@ Segunda 	alteração!
 Terceira 	alteração!
 
 Quarta Alteração
+
+Outra alteração para commitar...
