@@ -1,8 +1,14 @@
-Teste de arquivo
-Primeira 	alteração!
-Segunda 	alteração!
-Terceira 	alteração!
+ï»¿Teste de arquivo
+Primeira 	alteraÃ§Ã£o!
+Segunda 	alteraÃ§Ã£o!
+Terceira 	alteraÃ§Ã£o!
 
+<<<<<<< HEAD
 Quarta Alteração
 
 Outra alteração para commitar...
+=======
+Quarta AlteraÃ§Ã£o
+
+Nova AlteraÃ§Ã£o
+>>>>>>> ea9dfc48d859923e221a6cd47a1776bf07d552cf
