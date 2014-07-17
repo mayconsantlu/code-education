@@ -15,5 +15,5 @@ Aberto no notepad ***notepad README.md* e inserido as informações.
 ### Realizando o envio do mesmo
 
 Já com o repositiório code-education criado foi feito um **git push origin master**
-
-
+#### Novos dados depois da versão 0.1.0
+> Adicionando mais informações para commitar em 23:45 16/07/2014
